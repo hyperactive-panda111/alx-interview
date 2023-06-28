@@ -1,7 +1,3 @@
-#!/usr/bin/python3
-''' Python module for calculating Pascal's triangle'''
-
-
 def pascal_triangle(n):
     ''' python function to calculate pascal's triangle and return n rows. '''
 
